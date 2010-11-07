@@ -1,6 +1,6 @@
 <?php 
 /**
- * Http Blacklist Helper Class
+ * Http Blacklist Component Class
  * 
  * Based on http://wordpress.org/extend/plugins/httpbl/
  * 
