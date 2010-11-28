@@ -1,0 +1,7 @@
+Enter your http:BL api key here:
+app/config/bootstrap.php
+
+Place your honeypot php file here:
+app/webroot/
+
+Use $this->blockMalicious() in your controller (best in AppController::beforeFilter)
